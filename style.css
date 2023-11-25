@@ -1,0 +1,149 @@
+header {
+    background-color: rgb(181, 216, 228);
+    margin: 10px 0px;
+    padding: 10px 0px;
+    border-radius: 20px;
+}
+header a{
+    color: blueviolet;
+}
+
+header img{
+    border-radius: 15px;
+    padding:1px;
+    margin:1px;
+}
+header b{
+    font-size: 20px;
+    text-align: center;
+    font-family: monospace;
+    color: rgb(17, 110, 106);
+}
+
+nav {
+    margin: 10px 10px;
+    text-align: center;
+}
+nav a {
+    padding: 10px 10px;
+    background-color: lightcyan;
+    border-radius: 15px;
+    color: lightslategrey;
+    font-size: 15px;
+    padding:5px 20px;
+    
+}
+main h1{
+    color: cadetblue;
+    text-align: center;
+}
+main h2{
+    color: cadetblue;
+    font-family:sans-seri;
+    font-size: 25px;
+}
+main p{
+    color: rgb(5, 117, 113);
+    font-style: oblique;
+    background-color: rgb(207, 221, 246);
+
+}
+main a{
+    color: blueviolet;
+}
+
+footer p{
+    background-color: rgb(211, 246, 245);
+    border-radius: 15px;
+    color: lightslategray
+   
+}
+footer b{ 
+    font-size: 23px;
+    border-radius: 15px;
+    color: black;
+    padding: 8px 5px;
+    color: rgb(95, 95, 163);
+}
+.pp{
+    text-align: center;
+    background-color: rgb(168, 208, 255);
+    border-radius: 15px;
+}
+.dd{
+    text-align: center;
+    border-radius: 20px;
+}
+.mm{
+    text-align: center;
+    border-radius: 20px;
+}
+.ee{
+    text-align: center;
+    border-radius: 20px;
+}
+.qq {
+    border-radius: 20px;
+    text-align: center;
+}
+
+.ff{
+    font-size: 21px;
+    border-radius: 15px;
+    text-align: center;
+}
+.rr{
+    font-size: 21px;
+    border-radius: 15px;
+    text-align: center;
+
+}
+.tt{
+    font-size: 21px;
+    border-radius: 15px;
+    text-align: center;
+}
+.yy{
+    font-size: 21px;
+    border-radius: 15px;
+    text-align: center;
+
+}
+.bb {
+    font-size: 21px;
+    border-radius: 15px;
+    text-align: center;
+}
+.zz{
+    font-size: 21px;
+    border-radius: 15px;
+    text-align: center;
+}
+.xx{
+    font-size: 21px;
+    border-radius: 15px;
+    text-align: center;
+}
+.kk{
+    font-size: 21px;
+    border-radius: 15px;
+    text-align: center;
+}
+.vv{
+    font-size: 21px;
+    border-radius: 15px;
+    text-align: center;
+}
+.jj{
+    font-size: 21px;
+    border-radius: 15px;
+    text-align: center;
+}
+.gg{
+    font-size: 17px;
+    text-align: left;
+}
+.uu{
+    font-size: 17px;
+    text-align: left;
+}
